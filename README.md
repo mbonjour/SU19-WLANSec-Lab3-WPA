@@ -5,6 +5,7 @@
 __Korean/Swiss hybrid teams are highly encouraged__
 
 ## Authors : Aygerim Bilyalova, Mickael Bonjour, Rachel Gan
+For our Deliverables we have put the bruteforce attack on the wpa derivation where we are getting the infos.
 
 ### For this first part, you will need to:
 
